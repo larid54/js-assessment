@@ -88,7 +88,7 @@ describe('day1', function () {
 
     });
 
-    describe('trapezeSquare', function () {
+    ddescribe('trapezeSquare', function () {
         it('should return calculate area of trapeze', function () {
             expect(answer.trapezeSquare(2,2,2)).toEqual(4);
         });
